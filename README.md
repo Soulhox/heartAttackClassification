@@ -18,4 +18,4 @@ https://www.linkedin.com/in/juan-sebastian-corredor-angarita-0218551a4/
 Juan Llano
 https://www.linkedin.com/in/juan-diego-llano-65b5a5212/
 
-En linkedIn se puede encontrar el informe final de este proyecto.
+En linkedIn se puede encontrar el informe final de este proyecto. Así mismo se puede encontrar entre los archivos del repositorio.
